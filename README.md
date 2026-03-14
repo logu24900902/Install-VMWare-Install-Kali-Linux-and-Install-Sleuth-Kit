@@ -27,7 +27,7 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 
 ### **Step 3: Install Sleuth Kit (CLI-based Forensic Tools)**
-🔗 **Download Sleuth Kit**: [Click Here](https://sleuthkit.org/download.php)  
+🔗 **Download Sleuth Kit**: [Click Here]()  
 
 ### **Installation Steps:**
 1. Download the **Windows ZIP package** from the official website.  
